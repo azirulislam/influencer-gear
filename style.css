@@ -1,0 +1,72 @@
+body{
+    background-color: FFFFFF;
+    margin: 20px;
+}
+.section-area{
+    display: flex;
+}
+.section-blog h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+.section-blog{
+    width: 50%;
+    margin-top: 100px;
+}
+.img-cam{
+    width: 40%;
+}
+.button-1{
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: rgb(77, 77, 209);
+    color: cornsilk;
+}
+.brand-logo img{
+    justify-content: center;
+    margin-left: 60px;
+    border: 1px solid snow;
+    height: 50px;
+    width: 60px;
+}
+.popular h2{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+}
+.article-area{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.article{
+    margin-bottom: 30px;
+}
+.see-more{
+    text-align: right;
+    color: rgb(59, 59, 172);
+    margin-right: 10px;
+    
+}
+.see-more a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.footer-area{
+    background-color: rgb(24, 2, 2);
+    height: 240px;
+}
+.footer-area h2{
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 60px;
+}
+.footer-area p{
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 1000px;
+}
+
+  
