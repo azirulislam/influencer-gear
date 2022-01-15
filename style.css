@@ -69,4 +69,16 @@ body{
     padding-bottom: 1000px;
 }
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .section-area {
+        display: block;
+        justify-content: center;
+    }
+    .article-area{
+        display: block;
+        justify-content: center;
+    }
+  }
+  
   
